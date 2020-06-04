@@ -15,7 +15,7 @@ h1 {
     text-align: center;
 }
 .prima.fila {
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 10px;
 }
 .product {
@@ -53,4 +53,10 @@ h1 {
 }
 .product:hover .love{
     display: block;
+}
+footer {
+    margin-top: 30px;
+    border-top: 3px solid blue;
+    text-align: center;
+
 }
