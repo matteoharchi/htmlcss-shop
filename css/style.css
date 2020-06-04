@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: cyan;
+}
+.fila {
+    text-align: center;
+}
+.prima.fila {
+    margin-top: 100px;
+}
+.product {
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    display: inline-block;
+    position: relative;
+    box-sizing: content-box;
+    background-color: white;
+}
