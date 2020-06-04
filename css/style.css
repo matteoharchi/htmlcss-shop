@@ -1,9 +1,11 @@
+/* GENERALE */
 *{
     margin: 0;
     padding:0;
     box-sizing: border-box;
     background-color: lightblue;
 }
+/* HEADER */
 header{
     border-bottom: 3px solid blue;
 }
@@ -11,6 +13,7 @@ h1 {
     font-family: 'Chelsea Market', cursive;
     margin: 20px;
 }
+/* PRODOTTI */
 .fila {
     text-align: center;
 }
@@ -54,6 +57,7 @@ h1 {
 .product:hover .love{
     display: block;
 }
+/* FOOTER */
 footer {
     margin-top: 30px;
     border-top: 3px solid blue;
