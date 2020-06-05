@@ -48,11 +48,12 @@ h1 {
 .love {
     display:none;
     position: absolute;
-    left:50%;
+    left: 50%;
     bottom: 2px;
     font-size: 30px;
     background: white;
     color: red;
+    line-height: 25px;
 }
 .product:hover .love{
     display: block;
